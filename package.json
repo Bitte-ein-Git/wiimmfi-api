@@ -1,0 +1,15 @@
+{
+  "name": "mkw-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsdom": "^23.2.0",
+    "puppeteer-core": "^23.5.0"
+  }
+}
